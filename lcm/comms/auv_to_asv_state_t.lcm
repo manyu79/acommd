@@ -1,0 +1,12 @@
+package acomms;
+
+struct auv_to_asv_state_t
+{
+    int64_t   utime;
+    double    lat;
+    double    lon;
+    double    depth;
+    int16_t   nextwp;
+} 
+
+

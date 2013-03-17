@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/dscl/!svn/ver/2720/dsltools/trunk/lcm/sensors
+END
+dvl_t.lcm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/dscl/!svn/ver/2719/dsltools/trunk/lcm/sensors/dvl_t.lcm
+END
+gen-types.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/dscl/!svn/ver/2716/dsltools/trunk/lcm/sensors/gen-types.sh
+END

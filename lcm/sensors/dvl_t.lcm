@@ -1,0 +1,18 @@
+package sensors;
+
+struct dvl_t
+{
+    int64_t   utime;
+    int16_t   dvl_number;
+    double    altitude;
+    double    bottom_vel[4];
+    double    bottom_rng[4];
+    int16_t   bt_good_beams;
+    double    water_vel[4];
+    int16_t   wt_good_beams;
+    double    temp;
+    double    sv;
+    double    salinity;
+    double    depth;
+    double    sec_since_midnight;
+}
